@@ -1,0 +1,37 @@
+1648413515
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:14:"home/module-02";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:20:"Week 2 (May 16 - 22)";s:9:"published";b:1;s:4:"date";s:16:"16-05-2018 00:00";s:19:"hide_from_post_list";b:0;s:23:"hide_git_sync_repo_link";b:1;s:19:"header_image_credit";s:22:"CannedTuna, Flickr.com";s:23:"header_image_creditlink";s:52:"https://www.flickr.com/photos/cannedtuna/4853380320/";s:21:"header_image_alt_text";s:24:"Information architecture";}s:11:"frontmatter";s:303:"title: 'Week 2 (May 16 - 22)'
+published: true
+date: '16-05-2018 00:00'
+hide_from_post_list: false
+hide_git_sync_repo_link: true
+header_image_credit: 'CannedTuna, Flickr.com'
+header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
+header_image_alt_text: 'Information architecture'";s:8:"markdown";s:1300:"## What does a holistic user experience design process look like?
+[Software Development Processes](https://www.google.ca/slides/about/)  
+[User Experience Design Processes](https://www.google.ca/slides/about/)  
+[Our Design Process (aka Toolkit)](https://www.google.ca/slides/about/)  
+
+===
+
+## **What does a holistic user experience design process look like?**
+
+### Summaries and Questions  
+[May 16th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)
+
+### Presented Slides  
+[Placeholder Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/pub?start=false&loop=false&delayms=3000)
+
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/embed?start=false&loop=false&delayms=3000[/googleslides]
+
+### CPT-363 UX Design Process/Toolkit
+![CPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)
+
+### Handouts
+[Product Reaction Cards](https://canvas.sfu.ca/courses/55288/files)  
+
+### Assignments
+[Course Reflection Log](https://canvas.sfu.ca/courses/55288/assignments)  
+
+### Recommended Reading  
+[embedly]https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b[/embedly]
+";}s:7:"storage";a:6:{s:3:"key";s:14:"home/module-02";s:11:"storage_key";s:17:"01.home/module-02";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1644961865;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1644961865;}}s:8:"checksum";s:32:"d27c98f582f2e1ae91579ba74e77ef0e";}}
