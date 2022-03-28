@@ -1,0 +1,9 @@
+1648415733
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:6:"footer";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:6:"Footer";s:8:"routable";b:0;s:7:"visible";b:0;s:9:"published";b:0;s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:0;}s:11:"frontmatter";s:134:"title: Footer
+routable: false
+visible: false
+published: false
+hide_page_title: false
+show_sidebar: true
+hide_git_sync_repo_link: false";s:8:"markdown";s:197:"This site was built using [Grav](http://getgrav.org) and the [Open Matter Course Hub](http://learn.hibbittsdesign.org/coursehub) skeleton package by [hibbittsdesign.org](http://hibbittsdesign.org)
+";}s:7:"storage";a:6:{s:3:"key";s:6:"footer";s:11:"storage_key";s:6:"footer";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1648410841;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1648410841;}}s:8:"checksum";s:32:"2cd3e3004c7c475c310d469fffa44bd8";}}

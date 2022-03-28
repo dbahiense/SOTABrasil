@@ -2,18 +2,24 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => '/var/www/sotabrasil.com.br/user/pages/01.home/01._reminders/alert.md',
-    'modified' => 1644961865,
+    'modified' => 1648417021,
     'data' => [
         'header' => [
             'title' => 'Reminders',
             'alert_style' => 'alert-secondary',
-            'published' => true,
-            'visible' => false
+            'published' => false,
+            'visible' => false,
+            'hide_page_title' => false,
+            'show_sidebar' => true,
+            'hide_git_sync_repo_link' => true
         ],
-        'frontmatter' => 'title: \'Reminders\'
+        'frontmatter' => 'title: Reminders
 alert_style: alert-secondary
-published: true
-visible: false',
+published: false
+visible: false
+hide_page_title: false
+show_sidebar: true
+hide_git_sync_repo_link: true',
         'markdown' => '## What’s Happening This Week
 
 ### Important Reminders

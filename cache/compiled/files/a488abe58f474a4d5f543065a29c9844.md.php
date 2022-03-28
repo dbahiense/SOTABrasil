@@ -2,20 +2,20 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => '/var/www/sotabrasil.com.br/user/pages/20.readme/page.md',
-    'modified' => 1648410893,
+    'modified' => 1648416819,
     'data' => [
         'header' => [
             'title' => 'Read Me',
             'published' => false,
             'hide_page_title' => true,
             'show_sidebar' => true,
-            'hide_git_sync_repo_link' => false
+            'hide_git_sync_repo_link' => true
         ],
         'frontmatter' => 'title: \'Read Me\'
 published: false
 hide_page_title: true
 show_sidebar: true
-hide_git_sync_repo_link: false',
+hide_git_sync_repo_link: true',
         'markdown' => '## Create, Publish, Share and Collaborate using the Grav Open Matter Course Hub!  
 
 1. Create a new [Git](https://git-scm.com/) repository (hosted on [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or your own server) with at least one commit.

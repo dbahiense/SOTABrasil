@@ -1,0 +1,10 @@
+1648486289
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:16:"contact/thankyou";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:17:"Mensagem enviada!";s:4:"date";s:16:"20:35 12-03-2022";s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:1;s:12:"cache_enable";b:0;s:7:"process";a:2:{s:8:"markdown";b:1;s:4:"twig";b:1;}}s:11:"frontmatter";s:186:"title: 'Mensagem enviada!'
+date: '20:35 12-03-2022'
+hide_page_title: false
+show_sidebar: true
+hide_git_sync_repo_link: true
+cache_enable: false
+process:
+    markdown: true
+    twig: true";s:8:"markdown";s:49:"TNX FER QSO DR OM = 73 ES HPE CUAGN DE SOTA BR SK";}s:7:"storage";a:7:{s:3:"key";s:16:"contact/thankyou";s:11:"storage_key";s:22:"04.contact/01.thankyou";s:8:"template";s:7:"section";s:17:"storage_timestamp";i:1648485583;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"section";i:1648485583;}}s:8:"children";a:2:{s:17:"01.subsection-one";b:0;s:17:"02.subsection-two";b:0;}s:8:"checksum";s:32:"d145d0f486281bb106d457736608fe49";}}

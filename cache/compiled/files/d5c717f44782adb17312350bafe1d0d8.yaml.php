@@ -2,9 +2,9 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/sotabrasil.com.br/user/config/plugins/bootstrapper.yaml',
-    'modified' => 1644961865,
+    'modified' => 1648415250,
     'data' => [
-        'enabled' => true,
+        'enabled' => false,
         'version' => 'v4',
         'always_load' => true,
         'use_cdn' => true,

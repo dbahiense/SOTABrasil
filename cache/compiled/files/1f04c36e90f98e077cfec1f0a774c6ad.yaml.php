@@ -2,14 +2,14 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/sotabrasil.com.br/user/config/plugins/git-sync.yaml',
-    'modified' => 1648414787,
+    'modified' => 1648415883,
     'data' => [
         'enabled' => true,
         'SyncNotice' => NULL,
         'sync' => [
-            'on_save' => true,
-            'on_delete' => true,
-            'on_media' => true,
+            'on_save' => false,
+            'on_delete' => false,
+            'on_media' => false,
             'cron_enable' => false,
             'cron_at' => '0 12,23 * * *'
         ],
@@ -17,7 +17,7 @@ return [
         'repository' => 'https://github.com/dbahiense/SOTABrasil.git',
         'no_user' => '0',
         'user' => 'dbahiense',
-        'password' => 'gitsync-def502009215213545ac7e68dfbf9de902c7c5e78089bb90df6036e85f5527169c140bee8dabd4c56a8093b3c5634d0b32f7e06c25f1c181c576dbe7caa38fa69652b06bdfbdfe57d42f8f73982611b89a20b4ac53a100f50cceb90eb39f1fa19e3b732ce3',
+        'password' => 'gitsync-def50200dc23cea003982f41df1712bdce37decb6db828e7e91e712b17d2586354ce4fc635947d80485103b5a97d07c4f30db23655027b87c6e45bfe342b36d5ceb002f480a2746147fad4540ef20933a9722794bec58ec8b2eb5f4f0909e897b4a494b166fd882ddbce6e87b05bb6682148e3c1560f00727e689225',
         'webhook' => '/_git-sync-98439a70a90f',
         'webhook_enabled' => '0',
         'webhook_secret' => '1803c5d30ac69abb130ddd47f0239ef9b1d40dcbac4b8052',

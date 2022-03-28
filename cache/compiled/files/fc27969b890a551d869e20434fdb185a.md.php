@@ -2,26 +2,32 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => '/var/www/sotabrasil.com.br/user/pages/01.home/module-03/item.md',
-    'modified' => 1644961865,
+    'modified' => 1648417089,
     'data' => [
         'header' => [
             'title' => 'Week 3 (May 23 - 29)',
-            'published' => true,
+            'published' => false,
             'date' => '23-05-2018 00:00',
             'hide_from_post_list' => false,
             'hide_git_sync_repo_link' => true,
             'header_image_credit' => 'Emilio Küffer, Flickr.com',
             'header_image_creditlink' => 'https://www.flickr.com/photos/emiliokuffer/6384294717/',
-            'header_image_alt_text' => 'Bullseye'
+            'header_image_alt_text' => 'Bullseye',
+            'hide_page_title' => false,
+            'show_sidebar' => true,
+            'continue_link' => true
         ],
         'frontmatter' => 'title: \'Week 3 (May 23 - 29)\'
-published: true
+published: false
 date: \'23-05-2018 00:00\'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
 header_image_credit: \'Emilio Küffer, Flickr.com\'
 header_image_creditlink: \'https://www.flickr.com/photos/emiliokuffer/6384294717/\'
-header_image_alt_text: \'Bullseye\'',
+header_image_alt_text: Bullseye
+hide_page_title: false
+show_sidebar: true
+continue_link: true',
         'markdown' => '## How to make more strategic design decisions?  
 [User Experience Strategy](https://www.google.ca/slides/about/)  
 [Current State and Future State](https://www.google.ca/slides/about/)  

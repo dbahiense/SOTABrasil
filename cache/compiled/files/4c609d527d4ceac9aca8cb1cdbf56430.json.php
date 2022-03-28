@@ -2,49 +2,48 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => '/var/www/sotabrasil.com.br/user/data/flex/indexes/pages.json',
-    'modified' => 1648412904,
+    'modified' => 1648485999,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1648412904,
+        'timestamp' => 1648485999,
         'count' => 34,
         'index' => [
             '' => [
                 'key' => '',
                 'storage_key' => '',
                 'template' => NULL,
-                'storage_timestamp' => 1644961865,
+                'storage_timestamp' => 1648485746,
                 'children' => [
-                    '01.home' => 1644961865,
-                    '02.schedule' => 1644961865,
-                    '03.resources' => 1644961865,
-                    '04.multi-section-page' => 1644961865,
-                    '10.syllabus' => 1644961865,
-                    '20.readme' => 1644961865,
-                    'footer' => 1644961865,
-                    'headerimage' => 1644961865,
-                    'lms-home' => 1644961865,
-                    'sidebar' => 1644961865
+                    '01.home' => 1648484979,
+                    '02.contact' => 1648485746,
+                    '03.schedule' => 1648485746,
+                    '04.resources' => 1648485746,
+                    '05.syllabus' => 1648485513,
+                    '06.readme' => 1648485513,
+                    'footer' => 1648416911,
+                    'headerimage' => 1648416940,
+                    'lms-home' => 1648412460,
+                    'sidebar' => 1648484006
                 ],
-                'checksum' => 'e0dcb3905fd35709d671d94d812093ae'
+                'checksum' => '80a36dd31c74d4341f48e799739f9b9c'
             ],
             '01.home' => [
                 'key' => 'home',
                 'storage_key' => '01.home',
                 'template' => 'blog',
-                'storage_timestamp' => 1648410785,
+                'storage_timestamp' => 1648485791,
                 'markdown' => [
                     '' => [
-                        'blog' => 1648410785
+                        'blog' => 1648483343
                     ]
                 ],
                 'children' => [
-                    '01._reminders' => 1644961865,
-                    '02._preparations' => 1644961865,
-                    'module-01' => 1644961865,
-                    'module-02' => 1644961865,
-                    'module-03' => 1644961865,
-                    'module-04' => 1644961865,
-                    'module-05' => 1644961865,
+                    '01._reminders' => 1648417021,
+                    '02._preparations' => 1648417059,
+                    'activators' => 1648484979,
+                    'chasers' => 1648484956,
+                    'maratona-2022' => 1648485060,
+                    'module-05' => 1648417114,
                     'module-06' => 1644961865,
                     'module-07' => 1644961865,
                     'module-08' => 1644961865,
@@ -52,93 +51,82 @@ return [
                     'module-10' => 1644961865,
                     'module-11' => 1644961865,
                     'module-12' => 1644961865,
-                    'module-13' => 1644961865
+                    'module-13' => 1644961865,
+                    'swl' => 1648485791
                 ],
-                'checksum' => '75d8ff40624501e674606d3378e00cee'
+                'checksum' => 'edf57a9b68e670908457d28e3547c196'
             ],
             '01.home/01._reminders' => [
                 'key' => 'home/_reminders',
                 'storage_key' => '01.home/01._reminders',
                 'template' => 'alert',
-                'storage_timestamp' => 1644961865,
+                'storage_timestamp' => 1648417021,
                 'markdown' => [
                     '' => [
-                        'alert' => 1644961865
+                        'alert' => 1648417021
                     ]
                 ],
-                'checksum' => 'e5e3ae04fbe7e5d7cfb7971940b3adde'
+                'checksum' => '4ab8c87ca999faa14a3c1b1434df6568'
             ],
             '01.home/02._preparations' => [
                 'key' => 'home/_preparations',
                 'storage_key' => '01.home/02._preparations',
                 'template' => 'item',
-                'storage_timestamp' => 1644961865,
+                'storage_timestamp' => 1648417059,
                 'markdown' => [
                     '' => [
-                        'item' => 1644961865
+                        'item' => 1648417059
                     ]
                 ],
-                'checksum' => 'ca7988e2c4075969a190c78c4a371164'
+                'checksum' => '91df7581a90e6f11374b613c5f984900'
             ],
-            '01.home/module-01' => [
-                'key' => 'home/module-01',
-                'storage_key' => '01.home/module-01',
+            '01.home/activators' => [
+                'key' => 'home/activators',
+                'storage_key' => '01.home/activators',
                 'template' => 'item',
-                'storage_timestamp' => 1644961865,
+                'storage_timestamp' => 1648484979,
                 'markdown' => [
                     '' => [
-                        'item' => 1644961865
+                        'item' => 1648484332
                     ]
                 ],
-                'checksum' => 'd996d5afa0e9781f0710b59fcdede3ae'
+                'checksum' => '5beea24bf5f5efb354e950a7070ec08e'
             ],
-            '01.home/module-02' => [
-                'key' => 'home/module-02',
-                'storage_key' => '01.home/module-02',
+            '01.home/chasers' => [
+                'key' => 'home/chasers',
+                'storage_key' => '01.home/chasers',
                 'template' => 'item',
-                'storage_timestamp' => 1644961865,
+                'storage_timestamp' => 1648484956,
                 'markdown' => [
                     '' => [
-                        'item' => 1644961865
+                        'item' => 1648484789
                     ]
                 ],
-                'checksum' => 'd27c98f582f2e1ae91579ba74e77ef0e'
+                'checksum' => '20493751d91f987483895f0c9b7cbbfb'
             ],
-            '01.home/module-03' => [
-                'key' => 'home/module-03',
-                'storage_key' => '01.home/module-03',
+            '01.home/maratona-2022' => [
+                'key' => 'home/maratona-2022',
+                'storage_key' => '01.home/maratona-2022',
                 'template' => 'item',
-                'storage_timestamp' => 1644961865,
+                'storage_timestamp' => 1648485060,
                 'markdown' => [
                     '' => [
-                        'item' => 1644961865
+                        'item' => 1648485060
                     ]
                 ],
-                'checksum' => '84cd649d9adee369808bf4a95c3b58f5'
-            ],
-            '01.home/module-04' => [
-                'key' => 'home/module-04',
-                'storage_key' => '01.home/module-04',
-                'template' => 'item',
-                'storage_timestamp' => 1644961865,
-                'markdown' => [
-                    '' => [
-                        'item' => 1644961865
-                    ]
-                ],
-                'checksum' => '1604097cc019cfeab4fed3db20e8c604'
+                'checksum' => '56568b53e6ce58c5789516178dce76b1'
             ],
             '01.home/module-05' => [
                 'key' => 'home/module-05',
                 'storage_key' => '01.home/module-05',
                 'template' => 'item',
-                'storage_timestamp' => 1644961865,
+                'storage_timestamp' => 1648417114,
                 'markdown' => [
                     '' => [
-                        'item' => 1644961865
+                        'item' => 1648417114
                     ]
                 ],
-                'checksum' => '7dc50d3c57950f781cc91ffe16ab9082'
+                'checksum' => 'a956ac0ac3aaed67693a093c59400407'
             ],
             '01.home/module-06' => [
                 'key' => 'home/module-06',
@@ -236,107 +224,83 @@ return [
                 ],
                 'checksum' => 'b90518774c14b691fa8ab3182133f580'
             ],
-            '02.schedule' => [
-                'key' => 'schedule',
-                'storage_key' => '02.schedule',
-                'template' => 'page',
-                'storage_timestamp' => 1648410856,
+            '01.home/swl' => [
+                'key' => 'home/swl',
+                'storage_key' => '01.home/swl',
+                'template' => 'item',
+                'storage_timestamp' => 1648485791,
                 'markdown' => [
                     '' => [
-                        'page' => 1648410856
+                        'item' => 1648485282
                     ]
                 ],
-                'checksum' => 'd0afbf9115486d07d6f3a2f096e63ccf'
+                'checksum' => '3c237e93aed7288dbc8968b08a5fcda7'
             ],
-            '03.resources' => [
-                'key' => 'resources',
-                'storage_key' => '03.resources',
-                'template' => 'page',
-                'storage_timestamp' => 1648410868,
-                'markdown' => [
-                    '' => [
-                        'page' => 1648410868
-                    ]
-                ],
-                'checksum' => 'bed7bf969ccb79f8207ef21f503b867c'
-            ],
-            '04.multi-section-page' => [
-                'key' => 'multi-section-page',
-                'storage_key' => '04.multi-section-page',
+            '02.contact' => [
+                'key' => 'contact',
+                'storage_key' => '02.contact',
                 'template' => 'sections',
-                'storage_timestamp' => 1644961865,
+                'storage_timestamp' => 1648485999,
                 'markdown' => [
                     '' => [
-                        'sections' => 1644961865
+                        'sections' => 1648485999
                     ]
                 ],
                 'children' => [
-                    '01.section-one' => 1644961865,
-                    '02.section-two' => 1644961865,
-                    '03.section-three' => 1644961865
+                    '01.thankyou' => 1648485583,
+                    'section-three' => 1648485674,
+                    'section-two' => 1648485689
                 ],
-                'checksum' => '73b8a4fba675dfba8a50cc934dbd2240'
+                'checksum' => 'e22120d067429a4534c69f8f1e0d7872'
             ],
-            '04.multi-section-page/01.section-one' => [
-                'key' => 'multi-section-page/section-one',
-                'storage_key' => '04.multi-section-page/01.section-one',
+            '02.contact/01.thankyou' => [
+                'key' => 'contact/thankyou',
+                'storage_key' => '02.contact/01.thankyou',
                 'template' => 'section',
-                'storage_timestamp' => 1644961865,
+                'storage_timestamp' => 1648485583,
                 'markdown' => [
                     '' => [
-                        'section' => 1644961865
+                        'section' => 1648485583
                     ]
                 ],
                 'children' => [
-                    '01.subsection-one' => 1644961865,
-                    '02.subsection-two' => 1644961865
+                    '01.subsection-one' => 1648485714,
+                    '02.subsection-two' => 1648485706
                 ],
-                'checksum' => '6279c1c5a05ea37a88c1f4f15fc311f1'
+                'checksum' => 'd47f034fe1b5dea1c0f55f85d7a82f72'
             ],
-            '04.multi-section-page/01.section-one/01.subsection-one' => [
-                'key' => 'multi-section-page/section-one/subsection-one',
-                'storage_key' => '04.multi-section-page/01.section-one/01.subsection-one',
+            '02.contact/01.thankyou/01.subsection-one' => [
+                'key' => 'contact/thankyou/subsection-one',
+                'storage_key' => '02.contact/01.thankyou/01.subsection-one',
                 'template' => 'subsection',
-                'storage_timestamp' => 1644961865,
+                'storage_timestamp' => 1648485714,
                 'markdown' => [
                     '' => [
-                        'subsection' => 1644961865
+                        'subsection' => 1648485714
                     ]
                 ],
-                'checksum' => '4726c652f267b7a2e5a5fbd0fb7288ee'
+                'checksum' => 'd48e54826a8d9c2bf511937cdbb74fdc'
             ],
-            '04.multi-section-page/01.section-one/02.subsection-two' => [
-                'key' => 'multi-section-page/section-one/subsection-two',
-                'storage_key' => '04.multi-section-page/01.section-one/02.subsection-two',
+            '02.contact/01.thankyou/02.subsection-two' => [
+                'key' => 'contact/thankyou/subsection-two',
+                'storage_key' => '02.contact/01.thankyou/02.subsection-two',
                 'template' => 'subsection',
-                'storage_timestamp' => 1644961865,
+                'storage_timestamp' => 1648485706,
                 'markdown' => [
                     '' => [
-                        'subsection' => 1644961865
+                        'subsection' => 1648485706
                     ]
                 ],
-                'checksum' => '29c02b0912c218f50f36526f12268443'
+                'checksum' => '40dcf387659c977239ad0723738f9a98'
             ],
-            '04.multi-section-page/02.section-two' => [
-                'key' => 'multi-section-page/section-two',
-                'storage_key' => '04.multi-section-page/02.section-two',
+            '02.contact/section-three' => [
+                'key' => 'contact/section-three',
+                'storage_key' => '02.contact/section-three',
                 'template' => 'section',
-                'storage_timestamp' => 1644961865,
+                'storage_timestamp' => 1648485674,
                 'markdown' => [
                     '' => [
-                        'section' => 1644961865
-                    ]
-                ],
-                'checksum' => '975c0e13fd43b97a8171dc5457e644c1'
-            ],
-            '04.multi-section-page/03.section-three' => [
-                'key' => 'multi-section-page/section-three',
-                'storage_key' => '04.multi-section-page/03.section-three',
-                'template' => 'section',
-                'storage_timestamp' => 1644961865,
-                'markdown' => [
-                    '' => [
-                        'section' => 1644961865
+                        'section' => 1648485674
                     ]
                 ],
                 'children' => [
@@ -344,11 +308,11 @@ return [
                     '02.subsection-two' => 1644961865,
                     '03.subsection-three' => 1644961865
                 ],
-                'checksum' => '8cdd258d337cd58ddf150faedf5915ef'
+                'checksum' => 'aa7cb719d9a0dc9df667341bc10f7f3f'
             ],
-            '04.multi-section-page/03.section-three/01.subsection-one' => [
-                'key' => 'multi-section-page/section-three/subsection-one',
-                'storage_key' => '04.multi-section-page/03.section-three/01.subsection-one',
+            '02.contact/section-three/01.subsection-one' => [
+                'key' => 'contact/section-three/subsection-one',
+                'storage_key' => '02.contact/section-three/01.subsection-one',
                 'template' => 'subsection',
                 'storage_timestamp' => 1644961865,
                 'markdown' => [
@@ -356,11 +320,11 @@ return [
                         'subsection' => 1644961865
                     ]
                 ],
-                'checksum' => 'c024e26996651fb690f93fd50a7df5aa'
+                'checksum' => '9d10f5fd1f27bf7627d8ff6218846240'
             ],
-            '04.multi-section-page/03.section-three/02.subsection-two' => [
-                'key' => 'multi-section-page/section-three/subsection-two',
-                'storage_key' => '04.multi-section-page/03.section-three/02.subsection-two',
+            '02.contact/section-three/02.subsection-two' => [
+                'key' => 'contact/section-three/subsection-two',
+                'storage_key' => '02.contact/section-three/02.subsection-two',
                 'template' => 'subsection',
                 'storage_timestamp' => 1644961865,
                 'markdown' => [
@@ -368,11 +332,11 @@ return [
                         'subsection' => 1644961865
                     ]
                 ],
-                'checksum' => '422ad4b30e4c518634af631b6461fdb1'
+                'checksum' => 'd56618d7a3ee7754ac5c86812d57fca8'
             ],
-            '04.multi-section-page/03.section-three/03.subsection-three' => [
-                'key' => 'multi-section-page/section-three/subsection-three',
-                'storage_key' => '04.multi-section-page/03.section-three/03.subsection-three',
+            '02.contact/section-three/03.subsection-three' => [
+                'key' => 'contact/section-three/subsection-three',
+                'storage_key' => '02.contact/section-three/03.subsection-three',
                 'template' => 'subsection',
                 'storage_timestamp' => 1644961865,
                 'markdown' => [
@@ -380,55 +344,91 @@ return [
                         'subsection' => 1644961865
                     ]
                 ],
-                'checksum' => '88d08e8243bc69729e3dc041a48bbd09'
+                'checksum' => '256b72c9b295dcf48c672d0cf1959d67'
             ],
-            '10.syllabus' => [
-                'key' => 'syllabus',
-                'storage_key' => '10.syllabus',
+            '02.contact/section-two' => [
+                'key' => 'contact/section-two',
+                'storage_key' => '02.contact/section-two',
+                'template' => 'section',
+                'storage_timestamp' => 1648485689,
+                'markdown' => [
+                    '' => [
+                        'section' => 1648485689
+                    ]
+                ],
+                'checksum' => 'b7586572fdb39009130d65f33dde3ca5'
+            ],
+            '03.schedule' => [
+                'key' => 'schedule',
+                'storage_key' => '03.schedule',
                 'template' => 'page',
-                'storage_timestamp' => 1648410881,
+                'storage_timestamp' => 1648485746,
+                'markdown' => [
+                    '' => [
+                        'page' => 1648410856
+                    ]
+                ],
+                'checksum' => 'd967b3b050c920a5b48ff714b9950590'
+            ],
+            '04.resources' => [
+                'key' => 'resources',
+                'storage_key' => '04.resources',
+                'template' => 'page',
+                'storage_timestamp' => 1648485746,
+                'markdown' => [
+                    '' => [
+                        'page' => 1648410868
+                    ]
+                ],
+                'checksum' => '29f69164cc4b41976e6ddb213a724a25'
+            ],
+            '05.syllabus' => [
+                'key' => 'syllabus',
+                'storage_key' => '05.syllabus',
+                'template' => 'page',
+                'storage_timestamp' => 1648485513,
                 'markdown' => [
                     '' => [
                         'page' => 1648410881
                     ]
                 ],
-                'checksum' => '730aafb8adee2fb594adc15fc0080819'
+                'checksum' => '7f0d8fd723a3817943c472450be9d206'
             ],
-            '20.readme' => [
+            '06.readme' => [
                 'key' => 'readme',
-                'storage_key' => '20.readme',
+                'storage_key' => '06.readme',
                 'template' => 'page',
-                'storage_timestamp' => 1648410893,
+                'storage_timestamp' => 1648485513,
                 'markdown' => [
                     '' => [
-                        'page' => 1648410893
+                        'page' => 1648416819
                     ]
                 ],
-                'checksum' => '9c95e07746c190b0b3ea8d67cc70aa16'
+                'checksum' => '38926a3e1d80ca866db1f950277b5e79'
             ],
             'footer' => [
                 'key' => 'footer',
                 'storage_key' => 'footer',
                 'template' => 'default',
-                'storage_timestamp' => 1648410841,
+                'storage_timestamp' => 1648416911,
                 'markdown' => [
                     '' => [
-                        'default' => 1648410841
+                        'default' => 1648416911
                     ]
                 ],
-                'checksum' => '2cd3e3004c7c475c310d469fffa44bd8'
+                'checksum' => 'ecb0d29d2287a73a944f8cb9cc5fa05b'
             ],
             'headerimage' => [
                 'key' => 'headerimage',
                 'storage_key' => 'headerimage',
                 'template' => 'default',
-                'storage_timestamp' => 1648412904,
+                'storage_timestamp' => 1648416940,
                 'markdown' => [
                     '' => [
-                        'default' => 1648412904
+                        'default' => 1648416940
                     ]
                 ],
-                'checksum' => '39fa64eb5b923cea5d7fe8696e7f594e'
+                'checksum' => 'c55a4c979b559caeb98fba5b6f5284ab'
             ],
             'lms-home' => [
                 'key' => 'lms-home',
@@ -445,14 +445,14 @@ return [
             'sidebar' => [
                 'key' => 'sidebar',
                 'storage_key' => 'sidebar',
-                'template' => 'default',
-                'storage_timestamp' => 1648412664,
+                'template' => 'accordion',
+                'storage_timestamp' => 1648484006,
                 'markdown' => [
                     '' => [
-                        'default' => 1648412664
+                        'accordion' => 1648484006
                     ]
                 ],
-                'checksum' => '39c7dee70e5991a659c2f771380213cb'
+                'checksum' => '65215ae83f4d1f0fcaa1cc4167fd320d'
             ]
         ]
     ]

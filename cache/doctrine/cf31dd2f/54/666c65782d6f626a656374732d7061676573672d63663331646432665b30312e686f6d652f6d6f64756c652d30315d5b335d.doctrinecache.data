@@ -1,0 +1,36 @@
+1648415709
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:14:"home/module-01";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:9:{s:5:"title";s:19:"Week 1 (May 9 - 15)";s:9:"published";b:1;s:4:"date";s:16:"09-05-2018 00:00";s:21:"header_image_alt_text";s:23:"SFU Academic Quadrangle";s:19:"header_image_credit";s:28:"Julian Schüngel, Flickr.com";s:23:"header_image_creditlink";s:52:"https://www.flickr.com/photos/medevac71/10610701655/";s:19:"hide_from_post_list";b:0;s:13:"continue_link";b:1;s:23:"hide_git_sync_repo_link";b:1;}s:11:"frontmatter";s:327:"title: 'Week 1 (May 9 - 15)'
+published: true
+date: '09-05-2018 00:00'
+header_image_alt_text: 'SFU Academic Quadrangle'
+header_image_credit: 'Julian Schüngel, Flickr.com'
+header_image_creditlink: 'https://www.flickr.com/photos/medevac71/10610701655/'
+hide_from_post_list: false
+continue_link: true
+hide_git_sync_repo_link: true";s:8:"markdown";s:1249:"## What is usability and user experience design?
+[HCI, UI, IA, IxD, and UX](https://www.google.ca/slides/about/)  
+[Design Thinking](https://www.google.ca/slides/about/)  
+[Usability and UCD](https://www.google.ca/slides/about/)  
+
+===
+
+## **What is usability and user experience design?**
+
+### Summaries and Questions  
+[May 9th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)
+
+### Presented Slides  
+[Placeholder Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/pub?start=false&loop=false&delayms=3000)
+
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/embed?start=false&loop=false&delayms=3000[/googleslides]
+
+### Supplemental Materials  
+[Elements of User Experience by Jesse James Garrett](https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf)  
+[pdf]https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf[/pdf]
+
+### Handouts
+[Course Overview](https://canvas.sfu.ca/courses/55288/files)  
+
+### Recommended Reading  
+[embedly]http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/[/embedly]
+";}s:7:"storage";a:6:{s:3:"key";s:14:"home/module-01";s:11:"storage_key";s:17:"01.home/module-01";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1644961865;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1644961865;}}s:8:"checksum";s:32:"d996d5afa0e9781f0710b59fcdede3ae";}}

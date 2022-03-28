@@ -1,0 +1,13 @@
+1648486274
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:18:"home/_preparations";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:12:"Preparations";s:9:"published";b:0;s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:0;}s:11:"frontmatter";s:109:"title: Preparations
+published: false
+hide_page_title: false
+show_sidebar: true
+hide_git_sync_repo_link: false";s:8:"markdown";s:242:"## Looking Ahead to Next Week
+
+### Week 5 Required Reading
+[embedly]http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/[/embedly]
+
+### Week 5 Slides to be Discussed
+[Usability Testing](https://www.google.ca/slides/about/)
+";}s:7:"storage";a:6:{s:3:"key";s:18:"home/_preparations";s:11:"storage_key";s:24:"01.home/02._preparations";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1648417059;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1648417059;}}s:8:"checksum";s:32:"91df7581a90e6f11374b613c5f984900";}}

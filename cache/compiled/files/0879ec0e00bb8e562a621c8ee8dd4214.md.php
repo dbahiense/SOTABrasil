@@ -2,11 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => '/var/www/sotabrasil.com.br/user/pages/01.home/blog.md',
-    'modified' => 1648410785,
+    'modified' => 1648483343,
     'data' => [
         'header' => [
             'title' => 'Home',
-            'published' => false,
+            'published' => true,
             'visible' => false,
             'hide_page_title' => true,
             'modular_content' => [
@@ -35,12 +35,12 @@ return [
             ],
             'child_type' => 'item',
             'show_sidebar' => true,
-            'hide_git_sync_repo_link' => false,
+            'hide_git_sync_repo_link' => true,
             'hero_scroll' => false,
             'continue_link_as_button' => false
         ],
         'frontmatter' => 'title: Home
-published: false
+published: true
 visible: false
 hide_page_title: true
 modular_content:
@@ -64,7 +64,7 @@ feed:
     limit: 10
 child_type: item
 show_sidebar: true
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 hero_scroll: false
 continue_link_as_button: false',
         'markdown' => ''

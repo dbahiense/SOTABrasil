@@ -1,0 +1,18 @@
+1648485660
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:15:"home/_reminders";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:9:"Reminders";s:11:"alert_style";s:15:"alert-secondary";s:9:"published";b:0;s:7:"visible";b:0;s:15:"hide_page_title";b:0;s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:1;}s:11:"frontmatter";s:149:"title: Reminders
+alert_style: alert-secondary
+published: false
+visible: false
+hide_page_title: false
+show_sidebar: true
+hide_git_sync_repo_link: true";s:8:"markdown";s:550:"## What’s Happening This Week
+
+### Important Reminders
+* [Journey Map](https://canvas.sfu.ca/courses/55288/assignments) assignment due Tue Jun 12 11:59pm PT
+* [Course Reflection Log](https://canvas.sfu.ca/courses/55288/assignments) assignment due Fri Aug 3rd 11:59pm PT
+
+### Required Reading
+* [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)
+
+[button label="Required Reading Quiz due June 4th" url="https://canvas.sfu.ca/courses/55288/quizzes/123648" /]
+";}s:7:"storage";a:6:{s:3:"key";s:15:"home/_reminders";s:11:"storage_key";s:21:"01.home/01._reminders";s:8:"template";s:5:"alert";s:17:"storage_timestamp";i:1648417021;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"alert";i:1648417021;}}s:8:"checksum";s:32:"4ab8c87ca999faa14a3c1b1434df6568";}}

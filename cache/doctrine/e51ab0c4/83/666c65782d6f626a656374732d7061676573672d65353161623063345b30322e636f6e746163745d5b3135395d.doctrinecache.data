@@ -1,0 +1,45 @@
+1648486346
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:7:"contact";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:7:"Contato";s:4:"form";a:4:{s:4:"name";s:7:"contact";s:6:"fields";a:3:{s:4:"name";a:5:{s:5:"label";s:4:"Nome";s:11:"placeholder";s:17:"Digite o seu nome";s:12:"autocomplete";s:2:"on";s:4:"type";s:4:"text";s:8:"validate";a:1:{s:8:"required";b:1;}}s:5:"email";a:4:{s:5:"label";s:6:"E-mail";s:11:"placeholder";s:6:"E-mail";s:4:"type";s:5:"email";s:8:"validate";a:1:{s:8:"required";b:1;}}s:7:"message";a:4:{s:5:"label";s:8:"Mensagem";s:11:"placeholder";s:8:"Mensagem";s:4:"type";s:8:"textarea";s:8:"validate";a:1:{s:8:"required";b:1;}}}s:7:"buttons";a:2:{s:6:"submit";a:2:{s:4:"type";s:6:"submit";s:5:"value";s:6:"Enviar";}s:5:"reset";a:2:{s:4:"type";s:5:"reset";s:5:"value";s:6:"Limpar";}}s:7:"process";a:4:{s:4:"save";a:4:{s:10:"fileprefix";s:8:"contact-";s:10:"dateformat";s:9:"Ymd-His-u";s:9:"extension";s:3:"txt";s:4:"body";s:35:"{% include 'forms/data.txt.twig' %}";}s:5:"email";a:2:{s:7:"subject";s:47:"[Contato | SOTA Brasil] {{ form.value.name|e }}";s:4:"body";s:36:"{% include 'forms/data.html.twig' %}";}s:7:"message";s:49:"TNX FER QSO DR OM = 73 ES HPE CUAGN DE SOTA BR SK";s:7:"display";s:8:"thankyou";}}s:15:"hide_page_title";b:0;s:23:"hide_git_sync_repo_link";b:1;s:12:"show_sidebar";b:1;}s:11:"frontmatter";s:1185:"title: Contato
+form:
+    name: contact
+    fields:
+        name:
+            label: Nome
+            placeholder: 'Digite o seu nome'
+            autocomplete: 'on'
+            type: text
+            validate:
+                required: true
+        email:
+            label: E-mail
+            placeholder: E-mail
+            type: email
+            validate:
+                required: true
+        message:
+            label: Mensagem
+            placeholder: Mensagem
+            type: textarea
+            validate:
+                required: true
+    buttons:
+        submit:
+            type: submit
+            value: Enviar
+        reset:
+            type: reset
+            value: Limpar
+    process:
+        save:
+            fileprefix: contact-
+            dateformat: Ymd-His-u
+            extension: txt
+            body: '{% include ''forms/data.txt.twig'' %}'
+        email:
+            subject: '[Contato | SOTA Brasil] {{ form.value.name|e }}'
+            body: '{% include ''forms/data.html.twig'' %}'
+        message: 'TNX FER QSO DR OM = 73 ES HPE CUAGN DE SOTA BR SK'
+        display: thankyou
+hide_page_title: false
+hide_git_sync_repo_link: true
+show_sidebar: true";s:8:"markdown";s:0:"";}s:7:"storage";a:7:{s:3:"key";s:7:"contact";s:11:"storage_key";s:10:"02.contact";s:8:"template";s:8:"sections";s:17:"storage_timestamp";i:1648485746;s:8:"markdown";a:1:{s:0:"";a:1:{s:8:"sections";i:1648485513;}}s:8:"children";a:3:{s:11:"01.thankyou";b:0;s:13:"section-three";b:0;s:11:"section-two";b:0;}s:8:"checksum";s:32:"c12a2039a88ebe0adc83f545b94a2731";}}

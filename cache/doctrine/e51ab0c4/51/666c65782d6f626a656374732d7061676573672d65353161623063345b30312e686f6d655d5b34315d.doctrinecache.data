@@ -1,0 +1,29 @@
+1648417659
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"home";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:16:{s:5:"title";s:4:"Home";s:9:"published";b:0;s:7:"visible";b:0;s:15:"hide_page_title";b:1;s:15:"modular_content";a:2:{s:5:"items";s:13:"@self.modular";s:5:"order";a:2:{s:2:"by";s:6:"folder";s:3:"dir";s:3:"asc";}}s:7:"content";a:4:{s:5:"items";s:14:"@self.children";s:5:"limit";i:7;s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:4:"desc";}s:10:"pagination";s:1:"1";}s:17:"hide_post_summary";b:1;s:9:"post_icon";s:10:"calendar-o";s:14:"hide_post_date";b:1;s:18:"hide_post_taxonomy";b:1;s:4:"feed";a:2:{s:11:"description";s:43:"Grav CMS Open Matter Course Hub Description";s:5:"limit";i:10;}s:10:"child_type";s:4:"item";s:12:"show_sidebar";b:1;s:23:"hide_git_sync_repo_link";b:1;s:11:"hero_scroll";b:0;s:23:"continue_link_as_button";b:0;}s:11:"frontmatter";s:563:"title: Home
+published: false
+visible: false
+hide_page_title: true
+modular_content:
+    items: '@self.modular'
+    order:
+        by: folder
+        dir: asc
+content:
+    items: '@self.children'
+    limit: 7
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
+hide_post_summary: true
+post_icon: calendar-o
+hide_post_date: true
+hide_post_taxonomy: true
+feed:
+    description: 'Grav CMS Open Matter Course Hub Description'
+    limit: 10
+child_type: item
+show_sidebar: true
+hide_git_sync_repo_link: true
+hero_scroll: false
+continue_link_as_button: false";s:8:"markdown";s:0:"";}s:7:"storage";a:7:{s:3:"key";s:4:"home";s:11:"storage_key";s:7:"01.home";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1648416863;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"blog";i:1648416863;}}s:8:"children";a:15:{s:13:"01._reminders";b:0;s:16:"02._preparations";b:0;s:9:"module-01";b:0;s:9:"module-02";b:0;s:9:"module-03";b:0;s:9:"module-04";b:0;s:9:"module-05";b:0;s:9:"module-06";b:0;s:9:"module-07";b:0;s:9:"module-08";b:0;s:9:"module-09";b:0;s:9:"module-10";b:0;s:9:"module-11";b:0;s:9:"module-12";b:0;s:9:"module-13";b:0;}s:8:"checksum";s:32:"3b14340bd4a61c6363dfef9c10800037";}}
